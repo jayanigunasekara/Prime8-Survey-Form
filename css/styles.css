@@ -1,0 +1,33 @@
+
+body{
+    
+    color: blue;
+    text-align: left;
+
+    
+  }
+
+.bg-image{
+  background-image: url('img/backgroundImage1.jpg');
+  height: 100vh;
+}
+
+  
+.inputfield{
+    height: 50px;
+  
+}
+
+h1{
+    width:500px;
+    margin: 0 auto;
+    background: gray;
+    text-align: center;
+}
+
+h4{
+  width:500px;
+  margin: 0 auto;
+  background: gray;
+  text-align: center;
+}
