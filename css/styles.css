@@ -1,33 +1,40 @@
 
 body{
     
-    color: blue;
+    color: white;
     text-align: left;
+    background-image: url("image-bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat; 
+    padding: 10px;
+    background-color: black;
+    line-height: 2.0;
 
     
   }
 
-.bg-image{
-  background-image: url('img/backgroundImage1.jpg');
-  height: 100vh;
-}
+  .heading{
+    align-items: center;
+    text-align: center;
+    padding: 15px;
+  }
+
+  form{
+    padding: 30px;
+    background-color: rgba(15, 7, 166, 0.801);
+    color: white;
+  }
+
+ 
+
 
   
 .inputfield{
     height: 50px;
   
 }
+ 
 
-h1{
-    width:500px;
-    margin: 0 auto;
-    background: gray;
-    text-align: center;
-}
-
-h4{
-  width:500px;
-  margin: 0 auto;
-  background: gray;
-  text-align: center;
+.comments-section{
+  height:125px;
 }
